@@ -27,8 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [netlify](https://enchanting-figolla-4edceb.netlify.app/)
 
 ## My process
 
@@ -75,7 +74,7 @@ add user friendly animation
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [mercy-mbao](https://enchanting-figolla-4edceb.netlify.app/)
 - Frontend Mentor - [@mercie-ux](https://www.frontendmentor.io/profile/mercie-ux)
 - Twitter - [@junearsenic7](https://www.twitter.com/junearsenic7)
 
